@@ -4,7 +4,7 @@ Para executar os testes é só rodar o arquivo build/mytests
 
 Caso queira mudar algum dos testes localizados em mytests.cpp, basta compilar a aplicação novamente dando make dentro do diretório build
 
-
+ 
 
 A aplicação sendo testada trata-se apenas de algumas funções aritméticas básicas para poder compreender o uso da framework de testes:
 
@@ -16,7 +16,7 @@ mul2int() : multiplica dois integers
 
 div2int() : divide um integer por outro
 
-
+ 
 
 Há alguns testes feitos, divididos em 4 suites:
 
