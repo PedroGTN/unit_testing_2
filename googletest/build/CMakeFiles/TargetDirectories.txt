@@ -1,0 +1,14 @@
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/gtest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/gtest_main.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample1_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample2_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample3_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample4_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample5_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample6_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample7_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample8_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample9_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/sample10_unittest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/edit_cache.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/googletest/build/CMakeFiles/rebuild_cache.dir

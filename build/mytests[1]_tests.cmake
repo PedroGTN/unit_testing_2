@@ -1,0 +1,5 @@
+add_test( test_add.1_1_equals_2 /home/pedrogtn/Documents/Faculdade/unit_testing/build/mytests [==[--gtest_filter=test_add.1_1_equals_2]==] --gtest_also_run_disabled_tests)
+set_tests_properties( test_add.1_1_equals_2 PROPERTIES WORKING_DIRECTORY /home/pedrogtn/Documents/Faculdade/unit_testing/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( test_add.1_1_equals_3 /home/pedrogtn/Documents/Faculdade/unit_testing/build/mytests [==[--gtest_filter=test_add.1_1_equals_3]==] --gtest_also_run_disabled_tests)
+set_tests_properties( test_add.1_1_equals_3 PROPERTIES WORKING_DIRECTORY /home/pedrogtn/Documents/Faculdade/unit_testing/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( mytests_TESTS test_add.1_1_equals_2 test_add.1_1_equals_3)

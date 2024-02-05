@@ -1,0 +1,9 @@
+/home/pedrogtn/Documents/Faculdade/unit_testing/build/CMakeFiles/mytests.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/build/CMakeFiles/test.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/build/CMakeFiles/edit_cache.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/build/CMakeFiles/rebuild_cache.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/build/googletest/CMakeFiles/gtest.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/build/googletest/CMakeFiles/gtest_main.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/build/googletest/CMakeFiles/test.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/build/googletest/CMakeFiles/edit_cache.dir
+/home/pedrogtn/Documents/Faculdade/unit_testing/build/googletest/CMakeFiles/rebuild_cache.dir
